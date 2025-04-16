@@ -46,7 +46,7 @@ In this step we will add agents. I created the user (essentially our workers) Ja
 
 </p>
 <p>
-SLA Plans are placed to provide a length of time in which Admin expects tickets to be closed. They can be creatd by the admin panel, manage, SLA Plans adding a new SLA plan. Finally we will configure help topics, creating topics such as Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset to be used in the next project set. 
+SLA Plans are placed to provide a length of time in which admin expects tickets to be closed. They can be creatd by the admin panel, manage, SLA Plans adding a new SLA plan. Finally we will configure help topics, creating topics such as Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset to be used in the next project set. 
 Now you're finished!
 </p>
 <br/>
